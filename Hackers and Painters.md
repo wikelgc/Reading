@@ -5,7 +5,7 @@ Hackers and Painters:Big Ideas form
 
 
 - 作者：[美]Paul Graham
-- 出榜社：人民邮电出版社
+- 出版社：人民邮电出版社
 - 副标题：硅谷创业之父Paul Graham文集
 - 原作名：Hackers and Painters:Big Ideas from the Computer Age
 - 译者：阮一峰
